@@ -1,2 +1,2 @@
 # Estudos-Front-End
-Meus estudos sobra Front-End
+Meus estudos sobre Front-End
