@@ -26,6 +26,13 @@ a {
   text-decoration: none;
 }
 
+.subtitulo {
+  font-size: 8rem;
+  line-height: 1;
+  word-break: break-all;
+  text-transform: uppercase;
+  max-width: 4ch;
+}
 .conteiner {
   max-width: 1200px;
   padding: 40px 20px;
@@ -35,10 +42,18 @@ a {
   gap: 100px;
 }
 
-.subtitulo {
-  font-size: 8rem;
-  line-height: 1;
-  word-break: break-all;
-  text-transform: uppercase;
-  max-width: 4ch;
+.texto {
+  font-size: 1.5rem;
+  line-height: 1.33;
+  max-width: 40ch;
+  margin-bottom: 60px;
+  color: #525252;
+}
+
+@media (max-width: 800px) {
+  .subtitulo {
+    font-size: 3rem;
+    text-transform: capitalize;
+    max-width: initial;
+  }
 }
