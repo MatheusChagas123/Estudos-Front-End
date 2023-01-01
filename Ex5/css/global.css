@@ -19,6 +19,7 @@ ul {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 
@@ -35,7 +36,7 @@ a {
 }
 .conteiner {
   max-width: 1200px;
-  padding: 40px 20px;
+  padding: 100px 20px;
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -54,6 +55,6 @@ a {
   .subtitulo {
     font-size: 3rem;
     text-transform: capitalize;
-    max-width: initial;
+    max-width: initial !important;
   }
 }
