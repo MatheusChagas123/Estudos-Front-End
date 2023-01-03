@@ -27,7 +27,7 @@ As tecnologias utilizadas para este projeto foram.
 
 ### 1 - Neste exercício devemos realizar uma pániga que informa horários de filmes diferentes.
 
-![ex1](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/17.png)
+
 
 
 
