@@ -5,7 +5,7 @@
 
 
 ## Estudos Front-End
-Este rpositório tem como objetivo principal mostrar a evolução dos exercícios realizados no curso origamid. Possuindo três pequenos projetos de páginas web seguindo o modelo do curso.
+Este rpositório em 🚧 construção 🚧 com objetivo principal mostrar a evolução dos exercícios realizados no curso origamid. Possuindo três pequenos projetos de páginas web seguindo o modelo do curso. Posteriormente pretento evoluir os sites e refatora-los conforme o avançar do curso.
 
 
 ## Technology 
@@ -23,9 +23,11 @@ As tecnologias utilizadas para este projeto foram.
 ## Getting started
 
 
-## Exercício 1
+## Projetos
 
-### 1 - Neste exercício devemos realizar uma pániga que informa horários de filmes diferentes.
+### 1 - Site de Cinema.
+### 2 - Pequeno site de amostra de Bicicleta.
+### 3 - Site modelo de curriculo.
 
 
 
