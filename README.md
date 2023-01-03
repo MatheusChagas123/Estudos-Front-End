@@ -5,7 +5,7 @@
 
 
 ## Estudos Front-End
-Este repositório em 🚧 construção 🚧 com objetivo principal mostrar a evolução dos exercícios realizados no curso origamid. Possuindo três pequenos projetos de páginas web seguindo o modelo do curso. Posteriormente pretento evoluir os sites e refatora-los conforme o avançar do curso.
+Este repositório em 🚧 construção 🚧 com objetivo principal mostrar a evolução dos exercícios realizados no curso origamid. Possuindo três pequenos projetos de páginas web seguindo o modelo do curso. Posteriormente pretendo evoluir os sites e refatora-los conforme o avançar do curso.
 
 
 ## Technology 
