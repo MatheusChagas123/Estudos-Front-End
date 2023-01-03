@@ -1,0 +1,49 @@
+:root {
+  --cor-primaria: #f5821f;
+  --cor-secundaria: rgba(137, 135, 135, 0.5);
+  --cor-terciaria: #fff;
+}
+
+.cidades img {
+  height: 30px;
+}
+h2 {
+  color: var(--cor-terciaria);
+  background: var(--cor-primaria);
+  border-radius: 20px 20px 0px 0px;
+  font-size: 2rem;
+  width: 250px;
+  height: 30px;
+  text-align: center;
+  margin-left: 50px;
+}
+
+a {
+  color: var(--cor-primaria);
+  font-size: 26px;
+  text-transform: uppercase;
+}
+
+.cidades {
+  border-radius: 4px;
+  box-shadow: 5px 5px 5px 5px #a3a2a2;
+
+  margin-top: 0px;
+}
+
+.cidades-item {
+  background: #f7f7f7;
+  padding: 30px;
+  border: 2px solid #000;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  gap: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.cidades-item:hover {
+  border: 5px solid var(--cor-primaria);
+  background: #fff;
+}
